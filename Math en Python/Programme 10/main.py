@@ -1,9 +1,5 @@
 """
 Ecrivez un programme Python pour mélanger les éléments suivants de manière aléatoire.
-
-Exemple:
-
-[1, 2, 3, 4, 5] -> [4, 1, 3, 2, 5]
 """
 
 
