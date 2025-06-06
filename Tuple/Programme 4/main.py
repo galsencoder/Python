@@ -9,4 +9,4 @@ mon_tuple = ('G', 'A', 'L', 'S', 'E', 'N')
 troisieme_element = mon_tuple[-3]
 
 # Affichage du troisième élément
-print(troisieme_element)  
+print(troisieme_element)
