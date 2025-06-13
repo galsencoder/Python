@@ -1,5 +1,5 @@
 ﻿"""
-Crée une fonction qui retourne un nouvel ensemble nettoyé, sans "" ni None en français.
+Crée une fonction qui retourne un nouvel ensemble nettoyé, sans "" ni None.
 """
 
 def nettoyer_ensemble(ensemble):
